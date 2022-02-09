@@ -3,7 +3,7 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+/* for headings */
 .header--main{
     font-weight: normal;
     font-size: 50px;
@@ -11,7 +11,25 @@ body {
 
 }
 
+/* for links */
+
 .link--cta {
     font-size: 16px ;
     color: aquamarine;
+}
+
+/* for secondary header */
+
+.header--secondary {
+    color: #ffffff;
+    font-weight: 300;
+    font-weight: 42px;
+}
+
+/* for links */
+
+.header--sub-header {
+
+    font-size: 21px;
+    color: grey;
 }
