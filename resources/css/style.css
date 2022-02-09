@@ -33,3 +33,11 @@ body {
     font-size: 21px;
     color: grey;
 }
+
+/* for footer*/
+
+.footer {
+    color: grey;
+    font-size: 16px;
+    text-align: right;
+}
